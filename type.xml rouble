@@ -1,4 +1,4 @@
-<type name="MoneyRuble10">
+        <type name="MoneyRuble10">
 		<nominal>150</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
